@@ -65,7 +65,7 @@ curl https://rustjin.blackcerb.com.br/health
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/rustjin.git
+git clone https://github.com/thefatherdev/rustjin.git
 cd rustjin
 
 # Compile (modo release para máxima performance)
