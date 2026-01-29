@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![RustJin Logo](logo.png)
+![RustJin Logo](https://rustjin.blackcerb.com.br/logo.png)
 
 **Conceda seus desejos de debugging com o poder demoníaco do Rust** 🔥
 
@@ -28,7 +28,7 @@ Projetado para desenvolvedores que precisam testar clientes HTTP, APIs, requisi�
 - 🚀 **Performance Infernal**: Construído em Rust com Axum - milhares de requisições por segundo
 - 🔒 **Segurança em Primeiro Lugar**: Validações de entrada, limites de recursos e proteção contra ataques
 - 📊 **Métricas em Tempo Real**: Monitoramento completo de requisições, sucessos, falhas e bloqueios
-- 🎯 **30+ Endpoints**: Cobertura completa de métodos HTTP, autenticação, cookies e muito mais
+- 🎯 **20+ Endpoints**: Cobertura completa de métodos HTTP, autenticação, cookies e muito mais
 - 🌈 **Interface Moderna**: UI dark theme responsiva com Bootstrap 5
 - 📝 **Logs Estruturados**: Sistema de logging assíncrono para debugging e auditoria
 - 🐳 **Production-Ready**: Pronto para deploy com Docker e systemd
